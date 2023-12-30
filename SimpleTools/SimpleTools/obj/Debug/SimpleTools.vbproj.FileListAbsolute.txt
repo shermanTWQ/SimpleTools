@@ -1,0 +1,11 @@
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\bin\Debug\SimpleTools.exe.config
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\bin\Debug\SimpleTools.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\bin\Debug\SimpleTools.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\bin\Debug\SimpleTools.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.vbprojResolveAssemblyReference.cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.Resources.resources
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.vbproj.GenerateResource.Cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.pdb
+C:\Users\VMadministrator\documents\visual studio 2015\Projects\SimpleTools\SimpleTools\obj\Debug\SimpleTools.SimpleTools.resources
